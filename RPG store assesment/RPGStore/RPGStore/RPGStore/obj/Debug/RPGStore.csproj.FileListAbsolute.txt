@@ -1,0 +1,18 @@
+C:\Users\s191719\Desktop\Ass1 RPGStore\RPGStore\RPGStore\bin\Debug\RPGStore.exe.config
+C:\Users\s191719\Desktop\Ass1 RPGStore\RPGStore\RPGStore\bin\Debug\RPGStore.exe
+C:\Users\s191719\Desktop\Ass1 RPGStore\RPGStore\RPGStore\bin\Debug\RPGStore.pdb
+C:\Users\s191719\Desktop\Ass1 RPGStore\RPGStore\RPGStore\obj\Debug\RPGStore.csprojAssemblyReference.cache
+C:\Users\s191719\Desktop\Ass1 RPGStore\RPGStore\RPGStore\obj\Debug\RPGStore.exe
+C:\Users\s191719\Desktop\Ass1 RPGStore\RPGStore\RPGStore\obj\Debug\RPGStore.pdb
+D:\Ass1 RPGStore\RPGStore\RPGStore\bin\Debug\RPGStore.exe.config
+D:\Ass1 RPGStore\RPGStore\RPGStore\bin\Debug\RPGStore.exe
+D:\Ass1 RPGStore\RPGStore\RPGStore\bin\Debug\RPGStore.pdb
+D:\Ass1 RPGStore\RPGStore\RPGStore\obj\Debug\RPGStore.csprojAssemblyReference.cache
+D:\Ass1 RPGStore\RPGStore\RPGStore\obj\Debug\RPGStore.exe
+D:\Ass1 RPGStore\RPGStore\RPGStore\obj\Debug\RPGStore.pdb
+D:\RPG store assesment\RPGStore\RPGStore\bin\Debug\RPGStore.exe.config
+D:\RPG store assesment\RPGStore\RPGStore\bin\Debug\RPGStore.exe
+D:\RPG store assesment\RPGStore\RPGStore\bin\Debug\RPGStore.pdb
+D:\RPG store assesment\RPGStore\RPGStore\obj\Debug\RPGStore.csprojAssemblyReference.cache
+D:\RPG store assesment\RPGStore\RPGStore\obj\Debug\RPGStore.exe
+D:\RPG store assesment\RPGStore\RPGStore\obj\Debug\RPGStore.pdb

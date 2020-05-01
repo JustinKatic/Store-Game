@@ -1,0 +1,12 @@
+D:\RPG store assesment\RPGStore\RPGStore\bin\Release\RPGStore.exe.config
+D:\RPG store assesment\RPGStore\RPGStore\bin\Release\RPGStore.exe
+D:\RPG store assesment\RPGStore\RPGStore\bin\Release\RPGStore.pdb
+D:\RPG store assesment\RPGStore\RPGStore\obj\Release\RPGStore.csprojAssemblyReference.cache
+D:\RPG store assesment\RPGStore\RPGStore\obj\Release\RPGStore.exe
+D:\RPG store assesment\RPGStore\RPGStore\obj\Release\RPGStore.pdb
+D:\RPG store assesment\RPGStore\RPGStore\RPGStore\bin\Release\RPGStore.exe.config
+D:\RPG store assesment\RPGStore\RPGStore\RPGStore\bin\Release\RPGStore.exe
+D:\RPG store assesment\RPGStore\RPGStore\RPGStore\bin\Release\RPGStore.pdb
+D:\RPG store assesment\RPGStore\RPGStore\RPGStore\obj\Release\RPGStore.csprojAssemblyReference.cache
+D:\RPG store assesment\RPGStore\RPGStore\RPGStore\obj\Release\RPGStore.exe
+D:\RPG store assesment\RPGStore\RPGStore\RPGStore\obj\Release\RPGStore.pdb

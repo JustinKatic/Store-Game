@@ -1,0 +1,12 @@
+RPGStore.Weapons,Bronze Sword,Crafted useing bronze bars at black smith.,100,7
+RPGStore.Weapons,Iron Sword,Crafted useing Iron bars at black smith.,200,7
+RPGStore.Weapons,Steel Weapon,Crafted useing Steel bars at black smith.,400,5
+RPGStore.Weapons,Mithril Weapon,Crafted useing Mithril bars at black smith.,600,5
+RPGStore.Weapons,A0byssal Whip,Found in the deep weilderness,1000,5
+RPGStore.Potions,Small Health Potion,Restores a small amount of health.,20,10
+RPGStore.Potions,Medium Health Potion,Restores a medium amount of health.,40,25
+RPGStore.Potions,Large Health Potion,Restores a large amount of health.,80,50
+RPGStore.Armour,Bronze Chest Plate,Crafted from bronze bars,100,20
+RPGStore.Armour,Bronze Iron Plate,Crafted from iron bars,200,30
+RPGStore.Armour,Bronze Steel Plate,Crafted from steel bars,400,40
+RPGStore.Armour,Bronze Mithril Plate,Crafted from mithril bars,600,60
